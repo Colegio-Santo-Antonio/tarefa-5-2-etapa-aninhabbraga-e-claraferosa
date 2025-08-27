@@ -1,4 +1,4 @@
-números = input()
+numeros = input()
 impares = []
 for i in numeros [-1::-2]:
     impares.append(int(i))
